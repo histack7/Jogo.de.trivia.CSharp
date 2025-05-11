@@ -23,4 +23,4 @@ Este jogo é um projeto simples feito em C#, onde o jogador precisa responder pe
 1. Clone este repositório para sua máquina local:
    
    ```bash
-   git clone https://github.com/seu-usuario/JogoDeTriviaCSharp.git
+   git clone https://github.com/histack7/JogoDeTriviaCSharp.git
